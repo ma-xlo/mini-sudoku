@@ -1,4 +1,4 @@
-# Sudoku-CLI
+# Mini Sudoku (Windows version)
 Command line interface version of one of the most popular puzzle games of all time.
 
 #### How to play
